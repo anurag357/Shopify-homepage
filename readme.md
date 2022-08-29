@@ -5,7 +5,7 @@
 ![thanks](https://img.shields.io/badge/Thanks-Hitesh%20Choudhary-red)
 ![Thanks](https://img.shields.io/badge/Thanks-Inueron-blue)
 
-# Paytm responcive website
+# Shopify responcive website
 
 > Project 17
 
